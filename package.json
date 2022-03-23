@@ -1,0 +1,34 @@
+{
+    "name": "prosperity-theme",
+    "displayName": "Prosperity Theme",
+    "description": "Prosperity Theme!",
+    "version": "1.0.0",
+    "publisher": "Prosperity",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ProsperityGH/Prosperity-VSCode-Theme/"
+    },
+    "keywords": [
+        "theme",
+        "prosperity",
+        "prosperity theme",
+        "prosperitygh",
+        "prosperitygh theme",
+        "blue theme"
+    ],
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Prosperity Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Prosperity Theme-color-theme.json"
+            }
+        ]
+    }
+}
