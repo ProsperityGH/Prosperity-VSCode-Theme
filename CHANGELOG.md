@@ -1,9 +1,17 @@
-# Change Log
+## 1.3.0 
 
-All notable changes to the "prosperity-theme" extension will be documented in this file.
+### Changed
+- Minor changes
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+### Added
+- Added icon for the extension
 
-## [Unreleased]
+## 1.2.0 
 
-- Initial release
+### Changed
+- Minor changes
+
+## 1.1.0
+
+### Changed
+- Minor changes

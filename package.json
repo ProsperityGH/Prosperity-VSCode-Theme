@@ -1,7 +1,8 @@
 {
     "name": "prosperity-theme",
     "displayName": "Prosperity Theme",
-    "description": "Prosperity Theme!",
+    "description": "A visual studio code theme made by Prosperity",
+    "icon": "assets/icon/icon.jpg",
     "version": "1.2.0",
     "publisher": "Prosperity",
     "repository": {
