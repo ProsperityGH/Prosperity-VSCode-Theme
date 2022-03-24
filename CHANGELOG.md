@@ -1,3 +1,8 @@
+## 1.5.1
+
+### Added
+- Added screenshot to the README
+
 ## 1.5.0 
 
 ### Changed
@@ -14,7 +19,7 @@
 - Minor changes
 
 ### Added
-- Added icon for the extension
+- Added icon to the extension
 
 ## 1.2.0 
 

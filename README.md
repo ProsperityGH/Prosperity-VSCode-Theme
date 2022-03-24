@@ -1,2 +1,7 @@
 # Prosperity Visual Studio Code Theme
-### This is my visual studio code theme
+### A visual studio code theme made by Prosperity
+
+# Screenshot
+### Screenshot of JavaScript
+
+![Theme Screenshot](assets/img/screenshot.jpg)
