@@ -1,3 +1,8 @@
+## 1.5.2
+
+### Changed
+- Upscaled the screenshot
+
 ## 1.5.1
 
 ### Added
