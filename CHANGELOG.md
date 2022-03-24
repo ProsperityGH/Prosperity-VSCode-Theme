@@ -1,3 +1,8 @@
+## 1.4.0 
+
+### Changed
+- Minor changes
+
 ## 1.3.0 
 
 ### Changed
