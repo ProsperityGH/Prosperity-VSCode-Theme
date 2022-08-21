@@ -1,3 +1,8 @@
+## 1.5.3
+
+### Changed
+- Changed License (From MIT to 3-Clause)
+
 ## 1.5.2
 
 ### Changed
